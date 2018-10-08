@@ -198,3 +198,11 @@ a#scrollUp {
 .scroll {
   background-color:transparent;
  }
+
+
+/*background*/
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
+}
