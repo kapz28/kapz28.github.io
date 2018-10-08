@@ -259,9 +259,18 @@ a#scrollUp {
 }
 
 /* Table for projects */
+main > .section3 > .table{
+	position: relative;
+	top: 5vh;
+
+
+}
 th {
   background: #303F9F;
   color: #E8EAF6;
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
 }
 
 th, td {
@@ -270,7 +279,11 @@ th, td {
 }
 
 td {
-  background: #EEE;
+  background: #E8EAF6;
+  color: #303F9F;
+  font-size: 2rem;
+  font-weight: 70;
+
 }
 
 .space {
