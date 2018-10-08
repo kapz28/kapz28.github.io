@@ -259,3 +259,21 @@ a#scrollUp {
 }
 
 /* Table for projects */
+th {
+  background: #303F9F;
+  color: #E8EAF6;
+}
+
+th, td {
+  text-align: center;
+  border: none !important;
+}
+
+td {
+  background: #EEE;
+}
+
+.space {
+  background:none;
+  width: 0.1rem;
+}
